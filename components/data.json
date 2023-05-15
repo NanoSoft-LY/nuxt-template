@@ -1,0 +1,32 @@
+{
+  "baseAccountId"
+:
+"c13e0679-4371-4a28-639b-08d9c5f6d4a6"
+classificationId
+:
+null
+costCenterId
+:
+"ef62fefa-be4a-4029-58e9-08d9c5f71855"
+creditorId
+:
+"4e05bb10-ae85-4f59-63e4-08d9c5f6d4a6"
+date
+:
+"2023-02-12"
+paymentMethod
+:
+2
+receiver
+:
+"107"
+serialNumber
+:
+17
+statement
+:
+"test 107"
+type
+:
+1
+}

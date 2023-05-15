@@ -1,0 +1,28 @@
+.required-label {
+  .col-form-label {
+    position: relative;
+    &::after {
+      content: "*";
+      position: absolute;
+      font-size: 22px;
+      top: -5px;
+      color: #f00;
+    }
+  }
+}
+
+.no-wrap-switcher {
+  display: flex;
+
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    .bv-no-focus-ring {
+      padding-bottom: 0 !important;
+      margin-top: 7px !important;
+      margin-left: 25px;
+      // width: 65%;
+    }
+  }
+}
